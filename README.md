@@ -1,0 +1,2 @@
+# QueryAnalitisPenjualan
+Analisa penjualan produk
